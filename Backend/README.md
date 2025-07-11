@@ -75,16 +75,6 @@ curl -X POST http://localhost:5000/train \
 
 ### Password Analysis Response
 ```json
-{
-  "password_hash_prefix": "a665a45e",
-  "length": 16,
-  "analyses": {
-    "rule_based": {
-      "method": "rule_based",
-      "score": 85,
-      "strength": "Strong",
-      "feedback": []
-    },
     "zxcvbn": {
       "method": "zxcvbn",
       "score": 75,
@@ -154,7 +144,6 @@ All models are evaluated using:
 - Precision
 - Recall
 - F1 Score
-- Cross-validation scores
 
 ## Security Features
 
