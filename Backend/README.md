@@ -5,7 +5,6 @@ A comprehensive password strength analysis system that combines rule-based analy
 ## Features
 
 ### Core Analysis Methods
-- **Rule-based Analysis**: Traditional password strength checking based on length, character variety, and common patterns
 - **zxcvbn Integration**: Advanced pattern matching and entropy calculation
 - **Machine Learning Models**: 
   - Logistic Regression
