@@ -1,0 +1,37 @@
+2025-07-11 11:07:40,438 [INFO] src.password_analyzer: Loaded scaler from models/scaler.joblib
+2025-07-11 11:07:40,682 [INFO] src.password_analyzer: Loaded model from models/logistic_regression_model.joblib
+2025-07-11 11:07:40,974 [INFO] src.password_analyzer: Loaded model from models/random_forest_model.joblib
+2025-07-11 11:07:41,088 [INFO] src.password_analyzer: Loaded model from models/xgboost_model.joblib
+2025-07-11 11:07:41,089 [INFO] src.password_analyzer: Successfully loaded 3 models
+2025-07-11 11:07:41,169 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.228.43:8000
+2025-07-11 11:07:41,171 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-07-11 11:11:44,727 [INFO] werkzeug: 127.0.0.1 - - [11/Jul/2025 11:11:44] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-11 11:11:44,878 [INFO] werkzeug: 127.0.0.1 - - [11/Jul/2025 11:11:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-11 13:56:04,830 [INFO] src.password_analyzer: Loaded scaler from models/scaler.joblib
+2025-07-11 13:56:05,233 [INFO] src.password_analyzer: Loaded model from models/logistic_regression_model.joblib
+2025-07-11 13:56:05,564 [INFO] src.password_analyzer: Loaded model from models/random_forest_model.joblib
+2025-07-11 13:56:05,711 [INFO] src.password_analyzer: Loaded model from models/xgboost_model.joblib
+2025-07-11 13:56:05,712 [INFO] src.password_analyzer: Successfully loaded 3 models
+2025-07-11 13:56:05,752 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.228.43:8000
+2025-07-11 13:56:05,753 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-07-11 13:56:13,365 [INFO] werkzeug: 127.0.0.1 - - [11/Jul/2025 13:56:13] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-11 13:59:52,821 [INFO] werkzeug: 127.0.0.1 - - [11/Jul/2025 13:59:52] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-11 14:01:28,443 [INFO] werkzeug: 127.0.0.1 - - [11/Jul/2025 14:01:28] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-11 14:17:59,027 [INFO] werkzeug: 192.168.228.43 - - [11/Jul/2025 14:17:59] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-11 14:17:59,214 [INFO] werkzeug: 192.168.228.43 - - [11/Jul/2025 14:17:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-11 17:55:51,936 [INFO] src.password_analyzer: Loaded scaler from models/scaler.joblib
+2025-07-11 17:55:52,452 [INFO] src.password_analyzer: Loaded model from models/logistic_regression_model.joblib
+2025-07-11 17:55:52,861 [INFO] src.password_analyzer: Loaded model from models/random_forest_model.joblib
+2025-07-11 17:55:52,981 [INFO] src.password_analyzer: Loaded model from models/xgboost_model.joblib
+2025-07-11 17:55:52,981 [INFO] src.password_analyzer: Successfully loaded 3 models
+2025-07-11 17:55:53,023 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.228.43:8000
+2025-07-11 17:55:53,024 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
